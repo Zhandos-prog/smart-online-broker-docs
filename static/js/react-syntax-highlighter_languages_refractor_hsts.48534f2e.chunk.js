@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkso_docs=self.webpackChunkso_docs||[]).push([[3140],{7761:s=>{function a(s){s.languages.hsts={directive:{pattern:/\b(?:includeSubDomains|max-age|preload)(?=[\s;=]|$)/i,alias:"property"},operator:/=/,punctuation:/;/}}s.exports=a,a.displayName="hsts",a.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_hsts.48534f2e.chunk.js.map
