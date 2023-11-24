@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smart-online-broker-docs/static/css/main.17182f98.css",
-    "main.js": "/smart-online-broker-docs/static/js/main.4e8b4c29.js",
+    "main.css": "/smart-online-broker-docs/static/css/main.34743c57.css",
+    "main.js": "/smart-online-broker-docs/static/js/main.31c38e21.js",
     "react-syntax-highlighter/refractor-core-import.js": "/smart-online-broker-docs/static/js/react-syntax-highlighter/refractor-core-import.fd60fd63.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/smart-online-broker-docs/static/js/react-syntax-highlighter_languages_refractor_abap.2d44c948.chunk.js",
     "react-syntax-highlighter_languages_refractor_abnf.js": "/smart-online-broker-docs/static/js/react-syntax-highlighter_languages_refractor_abnf.dad8413c.chunk.js",
@@ -288,8 +288,8 @@
     "static/media/fontawesome-webfont.eot": "/smart-online-broker-docs/static/media/fontawesome-webfont.09b9015b1ecaf95655b1.eot",
     "static/media/fontawesome-webfont.woff2?v=4.6.3": "/smart-online-broker-docs/static/media/fontawesome-webfont.0317d582b93c20f68e05.woff2",
     "index.html": "/smart-online-broker-docs/index.html",
-    "main.17182f98.css.map": "/smart-online-broker-docs/static/css/main.17182f98.css.map",
-    "main.4e8b4c29.js.map": "/smart-online-broker-docs/static/js/main.4e8b4c29.js.map",
+    "main.34743c57.css.map": "/smart-online-broker-docs/static/css/main.34743c57.css.map",
+    "main.31c38e21.js.map": "/smart-online-broker-docs/static/js/main.31c38e21.js.map",
     "refractor-core-import.fd60fd63.chunk.js.map": "/smart-online-broker-docs/static/js/react-syntax-highlighter/refractor-core-import.fd60fd63.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.2d44c948.chunk.js.map": "/smart-online-broker-docs/static/js/react-syntax-highlighter_languages_refractor_abap.2d44c948.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abnf.dad8413c.chunk.js.map": "/smart-online-broker-docs/static/js/react-syntax-highlighter_languages_refractor_abnf.dad8413c.chunk.js.map",
@@ -571,7 +571,7 @@
     "787.ce8d964a.chunk.js.map": "/smart-online-broker-docs/static/js/787.ce8d964a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17182f98.css",
-    "static/js/main.4e8b4c29.js"
+    "static/css/main.34743c57.css",
+    "static/js/main.31c38e21.js"
   ]
 }
